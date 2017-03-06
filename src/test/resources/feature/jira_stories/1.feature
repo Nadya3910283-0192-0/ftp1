@@ -1,4 +1,4 @@
-@ST_52
+@ST_52 @LAL
 Feature: 
 
 @SC_436 @la
