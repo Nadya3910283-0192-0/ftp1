@@ -1,5 +1,5 @@
 @ST_41 @coffee
-Feature: coffee to go
+Feature: 
 
 @SC_393 @coffee
 Scenario: Buy coffee
