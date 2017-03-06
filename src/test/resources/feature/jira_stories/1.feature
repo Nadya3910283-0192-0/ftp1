@@ -1,5 +1,5 @@
 @ST_52
-Feature: 1
+Feature: 
 
 @SC_436 @la
 Scenario: lala1
