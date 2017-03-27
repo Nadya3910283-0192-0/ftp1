@@ -19,7 +19,6 @@ And today is 2016-06-21
 @SC_391
 Scenario: Check update from GIT
 Given I created new scenario in repository
-Then I can see it in Relime
 
 @SC_392 @Critical @Test_1
 Scenario: Search books by publication year
